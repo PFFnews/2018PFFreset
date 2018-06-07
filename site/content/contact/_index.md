@@ -10,11 +10,9 @@ contact_entries:
   - heading: Working hours
     text: 24/7 news cycle
 ---
-
-
 Monica Miller                                 
 
-**PFF Chair                                 **
+**PFF Chair**
 
 News Director                               
 
@@ -26,11 +24,9 @@ monica@southseasbroadcasting.com
 
 +6842584197      
 
-
-
 Alexander Rheeney              
 
-**PFF Co-Chair              **
+**PFF Co-Chair**
 
 President Media Council PNG              
 
@@ -44,7 +40,7 @@ alexander.rheeney@outlook.com
 
 Bernadette H. Carreon              
 
-**PFF Co-Chair              **
+**PFF Co-Chair**
 
 Correspondent Pacific Island Times /Pacific Note     
 
@@ -54,11 +50,11 @@ carreon.bernadette@gmail.com
 
 +6807794304 
 
-
-
 Netani Rika                                 
 
-**PFF Coordinator                                 **
+
+
+**PFF Coordinator**
 
 Communications Director              
 
