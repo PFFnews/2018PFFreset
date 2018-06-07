@@ -1,19 +1,71 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact PFF
+logo: /img/pff logo.png
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: >-
+      PFF works as a virtual newsroom with founding members from American Samoa,
+      Cook Islands, Kiribati, Palau, Papua New Guinea, Samoa, Solomon Islands,
+      Tonga, Vanuatu, Australia and New Zealand 
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: 24/7 news cycle
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+Monica Miller                                 
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+**PFF Chair                                 **
+
+News Director                               
+
+South Seas Broadcasting                                
+
+American Samoa                                
+
+monica@southseasbroadcasting.com       
+
++6842584197      
+
+
+
+Alexander Rheeney              
+
+**PFF Co-Chair              **
+
+President Media Council PNG              
+
+Papua New Guinea               
+
+alexander.rheeney@outlook.com                
+
++67578045266 
+
+
+
+Bernadette H. Carreon              
+
+**PFF Co-Chair              **
+
+Correspondent Pacific Island Times /Pacific Note     
+
+Palau   
+
+carreon.bernadette@gmail.com             
+
++6807794304 
+
+
+
+Netani Rika                                 
+
+**PFF Coordinator                                 **
+
+Communications Director              
+
+Pacific Council of Churches                                
+
+Fiji                           
+
+netrika66@gmail.com
+
+. . .
